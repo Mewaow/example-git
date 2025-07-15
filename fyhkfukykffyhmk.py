@@ -1,3 +1,1 @@
-yk
-]lug;oi
-;;ihlug'k
+print("Hello")
